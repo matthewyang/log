@@ -4,8 +4,6 @@
 
 ##section2
 
-```
-#!php
-
+```php
 file_get_contents("http://sina.com.cn");
 ```
